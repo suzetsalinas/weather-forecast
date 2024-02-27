@@ -1,0 +1,16 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* .navbar-header {
+    margin-bottom: -5px;
+} */
+
+.page-header {
+    margin-top: 5%;
+}
+
+/* Media query for needs to be 15%
+.page-header {
+    margin-top: 5%;
+} */
